@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently attend my college on HIT,school of MS
+- 🌱 I’m currently learning OS,database
+- 👯 I’m looking to collaborate on a levelDB-like database
 
 <!--
 **LightBreath/LightBreath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
