@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I got my Bachelor's in HitWH at 2024.06
+- 🔭 I got my Bachelor's in HITwh at 2024.06
 - 🌱 I’m now practicing in ByteDance as AI engineer.
-- 👯 I’m going to Pursuing a Master's degree in HITSZ CS school at September.
+- 👯 I’m going to Pursuing a Master's degree in HITsz CS school at September.
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https:// LightBreath.github.io">
