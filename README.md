@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently attend my college on HIT,school of MS
-- 🌱 I’m currently learning OS,database
-- 👯 I’m looking to collaborate on a levelDB-like database
+- 🔭 I got my Bachelor's in HitWH at 2024.06
+- 🌱 I’m now practicing in ByteDance as AI engineer.
+- 👯 I’m going to Pursuing a Master's degree in HITSZ CS school at September.
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https:// LightBreath.github.io">
