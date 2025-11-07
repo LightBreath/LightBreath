@@ -1,7 +1,13 @@
 ### Hi there 👋
-- 🔭 I got my Bachelor's in HITwh at 2024.06
-- 🌱 I’m now practicing in ByteDance as AI engineer.
-- 👯 I’m going to Pursuing a Master's degree in HITsz CS school at September.
+
+A passionate AI enthusiast and graduate student at HIT Shenzhen, building my career at the intersection of research and industry.
+
+- 🌱 **What I'm up to**: 
+    - Pursuing my Master's in CS, diving deep into **LLMs and Generative AI**.
+- 👨‍💻 **My Journey**: 
+    - Recently graduated with a Bachelor's from **HIT Weihai**.
+    - Gained valuable experience as an intern at both **Tencent** and ByteDance.
+- 🚀 **Research Focus**: My passion lies in applying cutting-edge AI to **Financial Risk Control** and pioneering the next generation of **Generative Recommendation** systems.
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https:// LightBreath.github.io">
